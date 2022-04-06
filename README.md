@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @VictorVio
-- 🌱 I’m currently having Java, Springboot classes.
+- 🌱 I’m currently having Java, Spring boot private classes.
 - 🌱 Studying Analisys and Development of systems in IMPACTA college.
 ----------------------------------------------------------------------
 - 👋 Olá, sou o @VictorVio
-- 🌱 Atualmente estudando Java, Springboot com aulas particulares individuais.
+- 🌱 Atualmente estudando Java, Spring boot com aulas particulares individuais.
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas na faculdade IMPACTA.
 
 <!---
